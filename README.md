@@ -1,4 +1,4 @@
 fetching random user API using React 
 
 
-- [click here to visit ](prep-w2-react-acbt-gpqhsb3y9-fadysaadeddins-projects.vercel.app) 
+You can view the live project here: [https://prep-w2-react-acbt.vercel.app](https://prep-w2-react-acbt.vercel.app)
