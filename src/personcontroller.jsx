@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from 'react';
-import Person from './Person'; 
+import Person from './person'; 
 
 export default function PersonController() {
   const [person, setPerson] = useState(null); 
